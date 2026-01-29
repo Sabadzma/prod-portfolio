@@ -1,0 +1,743 @@
+{
+  "general": {
+    "profilePhoto": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/ba35901b-0abd-4c44-813c-acac52f6bcfb/Profile_image_1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RGJPLV7N%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICMnPIeLwlAvp0xqaHgrAg2Ua0%2FsKODRYt18XuhGtTx2AiEA22WlAyFZ8tKaKXTo%2FOFVro0mxh%2BwmJo82g%2FrwoG2SbEqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDBqa5avj1axCQEUL0ircA7kL0Z0nOc7%2FroWlJNHqw7FM8fIi9od55nrUHgDoqCWuyXXxQHYV%2B%2Frh7u92%2Bn%2BupSuCEhPNMcVaqYSyWPtwGC%2FinsiZeOG278MYoWBJlGVu8IbfgSZwbpR%2BYLMvPE7RD3yTnMR3qx2pqTuRInSIqzWtuhZk9j3soxQnyUP3yOwMn8IJtVvYPYwj97bjp8JGPo5uSgi%2BaPgSJQVnjXNhWHqqhdefccJNpRDMWqYFiVAQ5lO80XaH%2F9IlzsOpy34%2BsZjm1f%2BXXsDT6G6LM3UWrJctXukq76k%2F9nQ8Ou%2FE0OrGyDmWkOMIF75%2FTlfqoGC3IHeO6Q%2BVTN6JU0sGZ6pmXFblWjJN9JCIqbgS%2BNfGn4CVwkmyxdJ2mDIDC63yhCpiDum1mK%2Bu7RZq%2FKoFXzO2iRPrYBn%2FqVkJHLdCGxjG0hZ9ghEkrqJjfcmT6JSMvlVdCkcclyCpbDf01kTnLI%2Fkp5SGr7f%2Fx%2BUx%2BByo3Y8F2pdISO1m7G2nQETacDMkWtXRT2zgJ4Uy%2BfRIv9RHiKWgMZJJMoYAuVlPz3YiYpmxi1qwGoAnIwzxYDzJTBfN2wpNBm5hbhdXXF7SNxfmKxHa%2FIGTTLLcjyUarS92tQK74sPgX9rFVyGNfzvrXDiiMNLSuMMGOqUBBXKrb9hKO3goXzF2iuSxzjwimKMBj05xaz2%2BmzEMgAYJZfb1mRSOCD84Ij6seIvVG1p9GiL0lgvGYzLJ91EswAz1DOfHFSPKEzllxrwnJLSIUADSdv8ZaiPwfrO3CwX%2BflUB1HcrZJXyNNsNqzISzJ7aE71CvSs%2F7MJEzzkXWsqHuhTWmJ8%2BmTFdbJdS0uJcNZ%2FA5vtXBbtBnA37%2BLolnDoJfoGM&X-Amz-Signature=0d34b3465204b5f0dac87a8b6169d1106353d1411d2e295402bdf4ad6a26f269&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "displayName": "Saba Chitaishvili",
+    "byline": "Design Systems Enthusiast",
+    "website": "https://medium.com/@saba.chitaishvili",
+    "about": "👋 Hi, I'm Saba — a product designer specializing in design systems, with hands-on experience in setting up system foundations, mapping their structures, and setting up governance models. I've led the development of various component libraries, and documenting systems from the overall framework to the details of individual component usage. \n\nFor the past 4 years, I've contributed to a multi-brand, multi-platform design system for a leading bank in Georgia. Worked with cross-functional teams to ensure smooth adoption, while keeping a close eye on system metrics to make informed improvements.",
+    "sectionOrder": [
+      "Work Experience",
+      "Projects",
+      "Writing",
+      "Speaking",
+      "Education",
+      "Contact"
+    ]
+  },
+  "projects": [
+    {
+      "id": "21f70c0b-b394-810d-a61b-fa613f27be49",
+      "year": "2024",
+      "heading": "Set up design tokens system to handle theming and more",
+      "url": null,
+      "description": "The project established a single source of truth with tools that translate JSON design tokens into formats for Figma, CSS, Sass, Kotlin, and Swift. It introduced semantic tokens and a clear naming convention, enhancing collaboration and consistency.\n\n* Centralized design token management across multiple platforms\n\n* Automated token translation using Tokens Studio and Style Dictionary\n\n* Supported theming using semantic tokens\n\n* 15% reduction in Time To Market\n\n* Increased UI consistency\n\n* Improved communication between designers and developers\n\n* Clear and detailed documentation for easier adoption and maintenance",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--1.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/31ed3279-8553-455d-a6fa-7c818c499318/01.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=78be64e09e79c71afbe9b26c659083cb8e266ca73925f851bbc4d7e5182bff46&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--2.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/715ef338-4eda-48e3-b790-ffc058c141d8/02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=9b09847b9a9fcfdaf2cf2dd3269d8ad23d78220b1c1d05d1f3d354597baab50e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--3.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/5b60c7f3-5ac8-4920-9ec6-a5ce07d07e96/03.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=27f7d3cf2a3d9a2e71446f05c8aa88000bb9664a0476d59f84fe25cbb3220242&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--4.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/236f338d-019b-4436-9db9-00f5291995e5/04.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=9d27c51abb84829b32288c26ba61afbebe9254d15bcbe5bd6d5c7b74dfeda7b2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--5.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/a8b6ee30-b0df-4d23-bc8c-cff4bba92078/05.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=2375d760051ea71637f50f8dc0d0b27014fa1fab32c6afaccc7d57681f25b35b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--6.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/39a5b87a-e486-4475-9a5e-ec24430c086e/06.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=8ec32e6d20ed492f8e57be795f5c25739906032a44a7293d0de707a464f2629b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--7.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/843a6498-588e-4314-9d97-2dabfb9f710a/07.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=28ec13ff7a5f605863606f4bd9994c0a924598a33919cce5e5acceaa9dff6ba7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--8.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/ec4d367e-51cb-49cb-85e4-cc2f6ce1cad8/08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=d3e2eb05931e72a09427a9650e1247e0c09d44f4f7bba942f988cec5d0a22937&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--9.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/794229b5-0ea2-4f8f-a6be-08ff1e1437cc/09.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=031bbeac33b1d6c6220b9d19954e34498bab115b6724bd2bf3c4e30596511d45&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        }
+      ],
+      "type": "project",
+      "title": "Set up design tokens system to handle theming and more",
+      "company": "TBC"
+    },
+    {
+      "id": "21f70c0b-b394-81a3-b7aa-c12955e4157b",
+      "year": "2023",
+      "heading": "Built a color system with accessibility and scalability in mind",
+      "url": "https://medium.com/tbc-design/building-a-color-system-with-accessibility-and-scalability-in-mind-1a8fd44fb44b",
+      "description": "Worked on creating a robust, scalable, and accessible color system for the TBCx Design system.\n\n* Created color structure supporting multiple products with multiple brands\n\n* Embedded accessibility into the system through standardized contrast ratios for all color scales\n\n* Came up with a clear structure and well-defined rules for expansion\n\n* Laid down the strong base for upcoming semantic tokens and theming projects\n\n 👉 [Full case study here](https://medium.com/tbc-design/building-a-color-system-with-accessibility-and-scalability-in-mind-1a8fd44fb44b)",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Built-a-color-system-with-accessibility-and-scalab-1.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/e68098b1-dc3c-45ed-8253-31f2bb60f12e/Cover_photo_%282%29-optimized-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=be37ff0ef431d0883badef2c1cc7c5efa2dac42e13f21aec09e5937f6dc99178&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Built-a-color-system-with-accessibility-and-scalab-2.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/c40b8a59-01f3-4365-8528-cc9c49cd1a47/Primer_prism-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=0aec3dc2aa2ef672359c7120e5bff7a71e9ea376a737c87241b8fbbd7e9114d4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Built-a-color-system-with-accessibility-and-scalab-3.gif",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/7f43862f-ec4b-4102-aec3-f11b239e7e2c/Adjusting_for_abney_effect.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=8631058c02d0c109e649b5a22de00332432bd7ecf1fefb77b84e747f73bf0637&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        }
+      ],
+      "type": "project",
+      "title": "Built a color system with accessibility and scalability in mind",
+      "company": "TBC"
+    },
+    {
+      "id": "22670c0b-b394-8077-b826-d3d4053989fd",
+      "year": "2022",
+      "heading": "Designed a federative structure and contribution model for multi-platform and multi-brand design system",
+      "url": null,
+      "description": "Built contribution rules and process documentation from scratch to create a federative, community-driven design system where teams contribute to the product libraries they use.\n\n* Defined contribution guidelines, approval processes, and governance structure that creates a central point of control while enabling teams to contribute\n\n* Created clear documentation covering contribution workflows, review criteria, maintenance responsibilities, and distributed ownership model\n\n* Avoided bottlenecks by establishing distributed maintenance rules across contributing teams\n\n* Led series of workshops with product designers to deliver new ways of working and ensure team alignment with the collaborative approach",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Designed-a-federative-structure-and-contribution-m-1.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/a9116e1b-dfd0-406b-9a4d-fc33b3b9e646/1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=f5ab80e45e553c0316ca4dffc35a471f8086726251e230ea987325cb41f4b15e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Designed-a-federative-structure-and-contribution-m-2.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/dfa86ed8-12fa-4316-9e1d-f21766e1909a/2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=37728f706e3c4498a9ef03da48ee00b650916b4a9a79f23d37d527c5c0d1cbad&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Designed-a-federative-structure-and-contribution-m-3.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/1dc1ca1c-c475-4377-b2ca-2f6d0c9e90ab/3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=5b9b255ccaa21a5b74baec89e88144472d84c67d32fc834f90cf31fb07cbb485&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Designed-a-federative-structure-and-contribution-m-4.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/7a1463e5-bad1-4566-a75c-182496fb97bb/4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=9f9b8760477dfd22835a0af213c936e6c769dbf25f797c798027c9b44962b555&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Designed-a-federative-structure-and-contribution-m-5.png",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/f0141f3a-fd77-40a3-948e-852a3de6dcc5/5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=ced26e309b7a14d3382fc0d67a5fe05a3535aa02eb7e80bfa1a8179f59e8358d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        }
+      ],
+      "type": "project",
+      "title": "Designed a federative structure and contribution model for multi-platform and multi-brand design system",
+      "company": "TBC"
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "21f70c0b-b394-8188-8cb2-f1ece1642b9f",
+      "year": "2021 — Now",
+      "heading": "Product designer - Design systems at TBC Bank",
+      "title": "Product designer - Design systems",
+      "company": "TBC Bank",
+      "location": "Tbilisi, Georgia",
+      "description": "As a Product Designer at TBC, I focus on Design Systems—designing and maintaining UI component libraries, evolving the system, creating clear documentation, and driving adoption through collaboration with cross-functional teams. During my time here, I have:\n\n* Led the development and maintenance of the system's Foundations.\n\n* Driven the creation and evolution of multiple component libraries.\n\n* Built a multiplatform token structure to enable theming and ensure consistency.\n\n* Documented the system in depth, covering structure, governance, contribution, tokens, theming, and components.\n\n* Advocated for system adoption and guided product teams throughout the process.",
+      "attachments": [],
+      "type": "workExperience"
+    },
+    {
+      "id": "21f70c0b-b394-819f-93b6-fa7b19248b51",
+      "year": "2020 — 2021",
+      "heading": "Product designer - Mobile team at Leavingstone",
+      "title": "Product designer - Mobile team",
+      "company": "Leavingstone",
+      "location": "Tbilisi, Georgia",
+      "description": "At Leavingstone, my job was to design user-friendly, intuitive, clean, and visually compelling user interfaces for mobile apps in many different fields. The company has international clients, such as Netflix and Siemens.",
+      "attachments": [],
+      "type": "workExperience"
+    },
+    {
+      "id": "21f70c0b-b394-8161-8efa-db927b86672d",
+      "year": "2019 — 2020",
+      "heading": "UI designer at Artmedia",
+      "title": "UI designer",
+      "company": "Artmedia",
+      "location": "Tbilisi, Georgia",
+      "description": "At Artmedia, my job was to design user-friendly, intuitive, clean, and visually compelling user interfaces for web pages and mobile apps in many different fields. The company also owns a car service startup (mobile app) that I've been working on since starting.",
+      "attachments": [],
+      "type": "workExperience"
+    }
+  ],
+  "writing": [],
+  "speaking": [
+    {
+      "id": "21f70c0b-b394-805e-af5c-e7616abc3a5f",
+      "year": "2025",
+      "heading": "The DNA of modern design systems — Let’s talk tokens | Workshop",
+      "url": "https://touch.ge/",
+      "description": "",
+      "location": "Tbilisi, Georgia",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/The-DNA-of-modern-design-systems-Lets-talk-tokens--1.jpg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/2972f939-c8a2-4520-8a45-8b569f42b799/IMG_2028.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=13bdd0f7fd52447335b790c262f6f341e69f282f8644b789cc145560dd6a6ed7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/The-DNA-of-modern-design-systems-Lets-talk-tokens--2.jpeg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/fe16890e-7904-46fa-b0dd-e773556e03cf/IMG_3076-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=b2b73e53fd1f313b0bfe5f18638b09bf812ae15c22337920cec7906f147f67d3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/The-DNA-of-modern-design-systems-Lets-talk-tokens--3.jpeg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/5a0f6e35-25dc-495d-a8d5-97ffce4fa35c/IMCH0642-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=a923362c16cb11ee170ef70099ca60b9579e69580d3eac83bd48b112de7c1989&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/The-DNA-of-modern-design-systems-Lets-talk-tokens--4.jpeg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/b620a290-c02f-4dbc-bda0-e541c89002b8/Touch_2025_133-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=53c87831f407be571d3d56af98acfdbb8c707d3cf6ef2d3ea0724d24c76b5a2e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/The-DNA-of-modern-design-systems-Lets-talk-tokens--5.jpeg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/012882fc-f2d1-494a-b0ad-0baec2c0c323/IMCH0462-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=9536c7e95325074c3465c20edceb51199498d6055fda11b08e74c019bee79dcc&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        }
+      ],
+      "type": "speaking"
+    },
+    {
+      "id": "21f70c0b-b394-8098-a3c9-ebc6744c486b",
+      "year": "2025",
+      "heading": "Federative design systems — Scaling without loosing control | Keynote",
+      "url": "https://touch.ge/",
+      "description": "",
+      "location": "Tbilisi, Georgia",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Federative-design-systems-Scaling-without-loosing--1.jpg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/6842975b-c5c3-4c49-a552-8a4683ffaadf/489297558_1222701463188646_5810702386704673933_n.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=cf10d9d4a1418e89afbc796b51014674dbf649aa8211a4857f73e49075d3158a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Federative-design-systems-Scaling-without-loosing--2.jpeg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/4faab540-bbe8-41a8-857a-8ca8b9804d14/IMCH7185-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=aec15cd81b1eed11f1450f64d11b2d08d95a7c3706115c59d9047e71254e5961&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Federative-design-systems-Scaling-without-loosing--3.jpeg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/f76a8541-c484-4573-b213-d9b3d625f758/IMG_2464-optimized-optimized-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=71342659600e0d9952f41eab22422bb31146de3ab1f5bcf47f6dde65de90dfb5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Federative-design-systems-Scaling-without-loosing--4.jpeg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/3ffe3040-328b-4c34-9929-185cb8012164/Touch_2025_58-optimized-optimized-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=fe430adce2c904588eb8deefc30e3720896cbd5d05dade89a883ed35ffc7517c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        }
+      ],
+      "type": "speaking"
+    },
+    {
+      "id": "21f70c0b-b394-81ae-9397-ddeca1a67ebe",
+      "year": "2024",
+      "heading": "Creating and maintaining design systems | Workshop",
+      "url": "https://adblacksea.com/news/35",
+      "description": "",
+      "location": "Tbilisi, Georgia",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Creating-and-maintaining-design-systems-Workshop-1.jpeg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/0acedabd-377d-4569-aab8-3ee6d16b157b/1713278688444.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=dbdb1c00babdafedf1eef360233276aac5e472296c519f45f17e96884650f3fe&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Creating-and-maintaining-design-systems-Workshop-2.jpg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/2c25a172-5a6c-4d64-8f0a-03076c1d8005/IMG_0188.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=0efec72a7ce26a33580701a57adf7de48b4b4eaf10ed930054f49647be716302&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Creating-and-maintaining-design-systems-Workshop-3.jpg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/8cf3daad-1528-418f-aa82-b681190e85f1/IMG_0189.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=aab415a6ccc6036cd02e639a0d888e11a31d40ee9a8e961108462ddd73fd98d5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Creating-and-maintaining-design-systems-Workshop-4.jpg",
+          "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/ed63f29b-0dbe-42cd-a815-853ecfaaa7d4/IMG_0190.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=2c0a71fcd91ce794bf986d50e28ceb4a037cf088c40d4b136dc01aae86a3b6b8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        }
+      ],
+      "type": "speaking"
+    }
+  ],
+  "education": [],
+  "contact": [
+    {
+      "id": "22070c0b-b394-8065-a3ab-c7d68512aed6",
+      "platform": "X",
+      "handle": "@s_chitaishvili﻿",
+      "url": "https://x.com/s_chitaishvili",
+      "type": "contact"
+    },
+    {
+      "id": "22070c0b-b394-8152-8945-c9d39f3809dc",
+      "platform": "LinkedIn",
+      "handle": "saba-chitaishvili",
+      "url": "https://www.linkedin.com/in/sbaa/",
+      "type": "contact"
+    },
+    {
+      "id": "22070c0b-b394-81f1-8b24-cdc1a5025fb7",
+      "platform": "Medium",
+      "handle": "saba.chitaishvili",
+      "url": "https://medium.com/@saba.chitaishvili",
+      "type": "contact"
+    },
+    {
+      "id": "22070c0b-b394-8012-804f-fb2d10a59a26",
+      "platform": "Dribbble",
+      "handle": "Saba_Chitaishvili",
+      "url": "https://dribbble.com/Saba_Chitaishvili",
+      "type": "contact"
+    },
+    {
+      "id": "22070c0b-b394-8110-9f3a-eb580117333f",
+      "platform": "Email",
+      "handle": "sba.chitaishvili@gmail.com",
+      "url": "",
+      "type": "contact"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "21f70c0b-b394-8188-8cb2-f1ece1642b9f",
+          "year": "2021 — Now",
+          "heading": "Product designer - Design systems at TBC Bank",
+          "title": "Product designer - Design systems",
+          "company": "TBC Bank",
+          "location": "Tbilisi, Georgia",
+          "description": "As a Product Designer at TBC, I focus on Design Systems—designing and maintaining UI component libraries, evolving the system, creating clear documentation, and driving adoption through collaboration with cross-functional teams. During my time here, I have:\n\n* Led the development and maintenance of the system's Foundations.\n\n* Driven the creation and evolution of multiple component libraries.\n\n* Built a multiplatform token structure to enable theming and ensure consistency.\n\n* Documented the system in depth, covering structure, governance, contribution, tokens, theming, and components.\n\n* Advocated for system adoption and guided product teams throughout the process.",
+          "attachments": [],
+          "type": "workExperience"
+        },
+        {
+          "id": "21f70c0b-b394-819f-93b6-fa7b19248b51",
+          "year": "2020 — 2021",
+          "heading": "Product designer - Mobile team at Leavingstone",
+          "title": "Product designer - Mobile team",
+          "company": "Leavingstone",
+          "location": "Tbilisi, Georgia",
+          "description": "At Leavingstone, my job was to design user-friendly, intuitive, clean, and visually compelling user interfaces for mobile apps in many different fields. The company has international clients, such as Netflix and Siemens.",
+          "attachments": [],
+          "type": "workExperience"
+        },
+        {
+          "id": "21f70c0b-b394-8161-8efa-db927b86672d",
+          "year": "2019 — 2020",
+          "heading": "UI designer at Artmedia",
+          "title": "UI designer",
+          "company": "Artmedia",
+          "location": "Tbilisi, Georgia",
+          "description": "At Artmedia, my job was to design user-friendly, intuitive, clean, and visually compelling user interfaces for web pages and mobile apps in many different fields. The company also owns a car service startup (mobile app) that I've been working on since starting.",
+          "attachments": [],
+          "type": "workExperience"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "21f70c0b-b394-810d-a61b-fa613f27be49",
+          "year": "2024",
+          "heading": "Set up design tokens system to handle theming and more",
+          "url": null,
+          "description": "The project established a single source of truth with tools that translate JSON design tokens into formats for Figma, CSS, Sass, Kotlin, and Swift. It introduced semantic tokens and a clear naming convention, enhancing collaboration and consistency.\n\n* Centralized design token management across multiple platforms\n\n* Automated token translation using Tokens Studio and Style Dictionary\n\n* Supported theming using semantic tokens\n\n* 15% reduction in Time To Market\n\n* Increased UI consistency\n\n* Improved communication between designers and developers\n\n* Clear and detailed documentation for easier adoption and maintenance",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--1.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/31ed3279-8553-455d-a6fa-7c818c499318/01.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=78be64e09e79c71afbe9b26c659083cb8e266ca73925f851bbc4d7e5182bff46&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--2.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/715ef338-4eda-48e3-b790-ffc058c141d8/02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=9b09847b9a9fcfdaf2cf2dd3269d8ad23d78220b1c1d05d1f3d354597baab50e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--3.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/5b60c7f3-5ac8-4920-9ec6-a5ce07d07e96/03.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=27f7d3cf2a3d9a2e71446f05c8aa88000bb9664a0476d59f84fe25cbb3220242&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--4.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/236f338d-019b-4436-9db9-00f5291995e5/04.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=9d27c51abb84829b32288c26ba61afbebe9254d15bcbe5bd6d5c7b74dfeda7b2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--5.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/a8b6ee30-b0df-4d23-bc8c-cff4bba92078/05.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=2375d760051ea71637f50f8dc0d0b27014fa1fab32c6afaccc7d57681f25b35b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--6.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/39a5b87a-e486-4475-9a5e-ec24430c086e/06.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=8ec32e6d20ed492f8e57be795f5c25739906032a44a7293d0de707a464f2629b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--7.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/843a6498-588e-4314-9d97-2dabfb9f710a/07.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=28ec13ff7a5f605863606f4bd9994c0a924598a33919cce5e5acceaa9dff6ba7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--8.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/ec4d367e-51cb-49cb-85e4-cc2f6ce1cad8/08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=d3e2eb05931e72a09427a9650e1247e0c09d44f4f7bba942f988cec5d0a22937&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Set-up-design-tokens-system-to-handle-theming-and--9.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/794229b5-0ea2-4f8f-a6be-08ff1e1437cc/09.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=031bbeac33b1d6c6220b9d19954e34498bab115b6724bd2bf3c4e30596511d45&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            }
+          ],
+          "type": "project",
+          "title": "Set up design tokens system to handle theming and more",
+          "company": "TBC"
+        },
+        {
+          "id": "21f70c0b-b394-81a3-b7aa-c12955e4157b",
+          "year": "2023",
+          "heading": "Built a color system with accessibility and scalability in mind",
+          "url": "https://medium.com/tbc-design/building-a-color-system-with-accessibility-and-scalability-in-mind-1a8fd44fb44b",
+          "description": "Worked on creating a robust, scalable, and accessible color system for the TBCx Design system.\n\n* Created color structure supporting multiple products with multiple brands\n\n* Embedded accessibility into the system through standardized contrast ratios for all color scales\n\n* Came up with a clear structure and well-defined rules for expansion\n\n* Laid down the strong base for upcoming semantic tokens and theming projects\n\n 👉 [Full case study here](https://medium.com/tbc-design/building-a-color-system-with-accessibility-and-scalability-in-mind-1a8fd44fb44b)",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Built-a-color-system-with-accessibility-and-scalab-1.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/e68098b1-dc3c-45ed-8253-31f2bb60f12e/Cover_photo_%282%29-optimized-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=be37ff0ef431d0883badef2c1cc7c5efa2dac42e13f21aec09e5937f6dc99178&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Built-a-color-system-with-accessibility-and-scalab-2.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/c40b8a59-01f3-4365-8528-cc9c49cd1a47/Primer_prism-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=0aec3dc2aa2ef672359c7120e5bff7a71e9ea376a737c87241b8fbbd7e9114d4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Built-a-color-system-with-accessibility-and-scalab-3.gif",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/7f43862f-ec4b-4102-aec3-f11b239e7e2c/Adjusting_for_abney_effect.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=8631058c02d0c109e649b5a22de00332432bd7ecf1fefb77b84e747f73bf0637&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            }
+          ],
+          "type": "project",
+          "title": "Built a color system with accessibility and scalability in mind",
+          "company": "TBC"
+        },
+        {
+          "id": "22670c0b-b394-8077-b826-d3d4053989fd",
+          "year": "2022",
+          "heading": "Designed a federative structure and contribution model for multi-platform and multi-brand design system",
+          "url": null,
+          "description": "Built contribution rules and process documentation from scratch to create a federative, community-driven design system where teams contribute to the product libraries they use.\n\n* Defined contribution guidelines, approval processes, and governance structure that creates a central point of control while enabling teams to contribute\n\n* Created clear documentation covering contribution workflows, review criteria, maintenance responsibilities, and distributed ownership model\n\n* Avoided bottlenecks by establishing distributed maintenance rules across contributing teams\n\n* Led series of workshops with product designers to deliver new ways of working and ensure team alignment with the collaborative approach",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Designed-a-federative-structure-and-contribution-m-1.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/a9116e1b-dfd0-406b-9a4d-fc33b3b9e646/1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=f5ab80e45e553c0316ca4dffc35a471f8086726251e230ea987325cb41f4b15e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Designed-a-federative-structure-and-contribution-m-2.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/dfa86ed8-12fa-4316-9e1d-f21766e1909a/2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=37728f706e3c4498a9ef03da48ee00b650916b4a9a79f23d37d527c5c0d1cbad&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Designed-a-federative-structure-and-contribution-m-3.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/1dc1ca1c-c475-4377-b2ca-2f6d0c9e90ab/3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=5b9b255ccaa21a5b74baec89e88144472d84c67d32fc834f90cf31fb07cbb485&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Designed-a-federative-structure-and-contribution-m-4.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/7a1463e5-bad1-4566-a75c-182496fb97bb/4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=9f9b8760477dfd22835a0af213c936e6c769dbf25f797c798027c9b44962b555&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Designed-a-federative-structure-and-contribution-m-5.png",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/f0141f3a-fd77-40a3-948e-852a3de6dcc5/5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z4XAOGVV%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103330Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDli4m5ZwxZYS0A%2BVmIyhMxsSHv7pHO9Tp1WTk1OBIb%2FAIgPgadxCQk%2F0QBsXBv7X8Is4WPso9r0vxwgvBGf7MeAfAqiAQIov%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDACIdujOBCH%2F7qdM1yrcA1bKxIhTyRzDOI0Gx%2BwpsWcU2KPaaQSayoHm6NmGJtIVoFYp56ZPXFaB1O%2F88J5z7ACzBTb8XCri91POB3DqqTnAOHg%2FuEKYKpMiaIgZmYPXlgg5FTLn3Pw1CAwMXa73VdYbZEKLR%2Fhtr4yTUP7OLebSem1p0W11MzgozDkU9EQ79zSKwWaS8jNx%2Bw%2FJvJdWCLmZuIEqoPAB6yRcOwLOQGWO5YupNPnocLxwQi9NyJNABu%2FlyrS%2FWa1jhKj0fY9KaBjK%2BqN%2Bf4JBT0uhl8vq4kRamOE07G3jVN%2FNj84uB5lQVKFpZD8Bc%2F4hJsVQidOhI%2F1ARh1IccsgTbCzVmQWtYTwAMsrqCc%2BgS4%2FeDr%2BQNAdEWaGaTqSfOcPdHorEdE9qlxZOY0Ss2fHCk6jibdHX9ltAuN9CYcWg8fEP%2FSjeI2PAw2btVGEuVcsQxQVKGovTnWFaDpP%2BkNDSu6p0xO1Oo4SnpEUpMCBzebOIbhm59uvqtmuyOssRh%2Btfh5EhXjngFD%2F9uH0caKVQsxi0kE6e%2BuMHQLJyV6nVoU%2FAPIJ1%2FFttZinngo3Wz%2BJRCX2BAWyGXyeH4IWwCzIFxtfWBOX1E4QEmc%2FpCTLmDxU8MVqJd5HyDsLBg4Epjtm9iRYMKvSuMMGOqUBfqXGZiUVR0VnsuaC7NdTvmaVfaqPvj9hrJHM1%2Fh%2F6C%2Fn31Nb94zB2dQjcsqnmmYkjpbLKSkmYyEFCMTQo2zGJHMIdZEmgxs1M9s4zycz81V9sTlnb2XZJ%2BV6%2BTuf%2Be4TAc9dwo5YXk0g3MGrU2P7t41UfwTZt9HvGY9iZaOmGpY%2FmG%2BJkgWydO7wTIFtxH3OxMSe%2B8OlgntilOoPDwOn8Xq76wgM&X-Amz-Signature=ced26e309b7a14d3382fc0d67a5fe05a3535aa02eb7e80bfa1a8179f59e8358d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            }
+          ],
+          "type": "project",
+          "title": "Designed a federative structure and contribution model for multi-platform and multi-brand design system",
+          "company": "TBC"
+        }
+      ]
+    },
+    {
+      "name": "Speaking",
+      "items": [
+        {
+          "id": "21f70c0b-b394-805e-af5c-e7616abc3a5f",
+          "year": "2025",
+          "heading": "The DNA of modern design systems — Let’s talk tokens | Workshop",
+          "url": "https://touch.ge/",
+          "description": "",
+          "location": "Tbilisi, Georgia",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/The-DNA-of-modern-design-systems-Lets-talk-tokens--1.jpg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/2972f939-c8a2-4520-8a45-8b569f42b799/IMG_2028.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=13bdd0f7fd52447335b790c262f6f341e69f282f8644b789cc145560dd6a6ed7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/The-DNA-of-modern-design-systems-Lets-talk-tokens--2.jpeg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/fe16890e-7904-46fa-b0dd-e773556e03cf/IMG_3076-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=b2b73e53fd1f313b0bfe5f18638b09bf812ae15c22337920cec7906f147f67d3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/The-DNA-of-modern-design-systems-Lets-talk-tokens--3.jpeg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/5a0f6e35-25dc-495d-a8d5-97ffce4fa35c/IMCH0642-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=a923362c16cb11ee170ef70099ca60b9579e69580d3eac83bd48b112de7c1989&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/The-DNA-of-modern-design-systems-Lets-talk-tokens--4.jpeg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/b620a290-c02f-4dbc-bda0-e541c89002b8/Touch_2025_133-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=53c87831f407be571d3d56af98acfdbb8c707d3cf6ef2d3ea0724d24c76b5a2e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/The-DNA-of-modern-design-systems-Lets-talk-tokens--5.jpeg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/012882fc-f2d1-494a-b0ad-0baec2c0c323/IMCH0462-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=9536c7e95325074c3465c20edceb51199498d6055fda11b08e74c019bee79dcc&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            }
+          ],
+          "type": "speaking"
+        },
+        {
+          "id": "21f70c0b-b394-8098-a3c9-ebc6744c486b",
+          "year": "2025",
+          "heading": "Federative design systems — Scaling without loosing control | Keynote",
+          "url": "https://touch.ge/",
+          "description": "",
+          "location": "Tbilisi, Georgia",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Federative-design-systems-Scaling-without-loosing--1.jpg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/6842975b-c5c3-4c49-a552-8a4683ffaadf/489297558_1222701463188646_5810702386704673933_n.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=cf10d9d4a1418e89afbc796b51014674dbf649aa8211a4857f73e49075d3158a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Federative-design-systems-Scaling-without-loosing--2.jpeg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/4faab540-bbe8-41a8-857a-8ca8b9804d14/IMCH7185-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=aec15cd81b1eed11f1450f64d11b2d08d95a7c3706115c59d9047e71254e5961&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Federative-design-systems-Scaling-without-loosing--3.jpeg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/f76a8541-c484-4573-b213-d9b3d625f758/IMG_2464-optimized-optimized-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=71342659600e0d9952f41eab22422bb31146de3ab1f5bcf47f6dde65de90dfb5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Federative-design-systems-Scaling-without-loosing--4.jpeg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/3ffe3040-328b-4c34-9929-185cb8012164/Touch_2025_58-optimized-optimized-optimized.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=fe430adce2c904588eb8deefc30e3720896cbd5d05dade89a883ed35ffc7517c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            }
+          ],
+          "type": "speaking"
+        },
+        {
+          "id": "21f70c0b-b394-81ae-9397-ddeca1a67ebe",
+          "year": "2024",
+          "heading": "Creating and maintaining design systems | Workshop",
+          "url": "https://adblacksea.com/news/35",
+          "description": "",
+          "location": "Tbilisi, Georgia",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Creating-and-maintaining-design-systems-Workshop-1.jpeg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/0acedabd-377d-4569-aab8-3ee6d16b157b/1713278688444.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=dbdb1c00babdafedf1eef360233276aac5e472296c519f45f17e96884650f3fe&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Creating-and-maintaining-design-systems-Workshop-2.jpg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/2c25a172-5a6c-4d64-8f0a-03076c1d8005/IMG_0188.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=0efec72a7ce26a33580701a57adf7de48b4b4eaf10ed930054f49647be716302&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Creating-and-maintaining-design-systems-Workshop-3.jpg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/8cf3daad-1528-418f-aa82-b681190e85f1/IMG_0189.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=aab415a6ccc6036cd02e639a0d888e11a31d40ee9a8e961108462ddd73fd98d5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Creating-and-maintaining-design-systems-Workshop-4.jpg",
+              "originalUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/90acfb5f-f0c8-4224-891e-1d84200f3626/ed63f29b-0dbe-42cd-a815-853ecfaaa7d4/IMG_0190.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46626ZGRBJI%2F20250709%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250709T103329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBGPEFp8VId9KiohhwZWDO4zb0suvAzTlJUkS1tsbZiEAiAc4hvX1gttrctvS6QSfhaRWvBv5EK%2BujDi9QkWkTx0NCqIBAii%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMviaGYGICgCjIBi5xKtwD5coEU8LfjUdZ7YnMt3tYV2gcK%2FUNLCJM%2BpR6QFV7qRpNcafO%2BzcvSbwic0LB8W%2Bj6p1t9gvLOL%2Ftl%2BGcyjrLqYSLFFBcsWq9AF1%2F5n%2BGJdBn72lu8HwJmXQqeFxh28fYvODckQuK0Bnz0HBqEOD7VGdImo%2FlLQBhI0U8CEdv5QUlcIFXMDOJ5njGa1Uys22MWxWt2DkFmO3dmHCzutQFSs6cWjMOtHkZ%2BGWbI2IIF6uHcQCtz6Df2RTHOnn5ycRJx7HIdvwZ6ZyhmXomgkNpbsvLAd2l4emkohU4qN7fHLNhu0hzD5bxpYtoJzMXm0JB1ha8GRpJIaOCClXHsfEzffBLyuCx6I%2FKCFIHC0dRdvaluX2Tt%2FifzsKNypwnI4896VsHhu19F7MquYRJGoPB82%2Ba3IVRUr59V6W6EOSbKOas6h8TchBAYHAs64ZxVWKbVJKb1y5kiMqXVc9K%2FF28uxYB419PL7tRO9lY3auaI%2BhFjUFiG4SmDgdKspcTDF4Sgo6Mw2dNA6XNos7bMFZHf3%2FO6FVIyJZP3T3Z09Acs%2BiC%2FmqrhAnRb5upTDj6DKtirmtlRa2CQF8%2BOso2B6g6FVu5S7FXDr%2FPPLdbjTkWhXS5xpS4mcuMmu9NZ1kwh9O4wwY6pgHUjY9cJ2UiAjdmt%2BJxH%2BOCIRl9Aizf4EZsU3%2BLFSjsEQtMPHNEQnM6MjIZJfwLtgMMR6NdLeh0hF%2BsOAypPzgJ0L%2BXNTWGrGizPpChd%2FYsJlCLa0eVaYJCfi%2BBsDVj6EUXbSSiBHKtjhU8ydmK7AdhVTz5uOdH5qKTD2ub5JLKOJFaFrVk9pUZ415t%2BmXWdhr%2BZihsqjcrBiGQL38jDsIKhF2ujO6C&X-Amz-Signature=2c0a71fcd91ce794bf986d50e28ceb4a037cf088c40d4b136dc01aae86a3b6b8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+            }
+          ],
+          "type": "speaking"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "22070c0b-b394-8065-a3ab-c7d68512aed6",
+          "platform": "X",
+          "handle": "@s_chitaishvili﻿",
+          "url": "https://x.com/s_chitaishvili",
+          "type": "contact"
+        },
+        {
+          "id": "22070c0b-b394-8152-8945-c9d39f3809dc",
+          "platform": "LinkedIn",
+          "handle": "saba-chitaishvili",
+          "url": "https://www.linkedin.com/in/sbaa/",
+          "type": "contact"
+        },
+        {
+          "id": "22070c0b-b394-81f1-8b24-cdc1a5025fb7",
+          "platform": "Medium",
+          "handle": "saba.chitaishvili",
+          "url": "https://medium.com/@saba.chitaishvili",
+          "type": "contact"
+        },
+        {
+          "id": "22070c0b-b394-8012-804f-fb2d10a59a26",
+          "platform": "Dribbble",
+          "handle": "Saba_Chitaishvili",
+          "url": "https://dribbble.com/Saba_Chitaishvili",
+          "type": "contact"
+        },
+        {
+          "id": "22070c0b-b394-8110-9f3a-eb580117333f",
+          "platform": "Email",
+          "handle": "sba.chitaishvili@gmail.com",
+          "url": "",
+          "type": "contact"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 import { Client } from "@notionhq/client";
 import { processCollectionImages, getActiveImageFilenames, cleanupUnusedImages } from "./image-sync";
 
+// Load environment variables from .env in development (ESM compatible)
+if (process.env.NODE_ENV !== "production") {
+    const dotenvImport = await import('dotenv');
+    dotenvImport.config();
+}
+
 // Initialize Notion client
 export const notion = new Client({
     auth: process.env.NOTION_INTEGRATION_SECRET!,
